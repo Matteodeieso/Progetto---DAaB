@@ -33,3 +33,4 @@ Strumenti utilizzati:
 
 
 **-Pinata**->Per utilizzare gli IPFS.
+https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architecture2.png
