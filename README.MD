@@ -13,7 +13,7 @@ API utilizzate: https://open-meteo.com/en/docs
 
 Per permettere al contratto di interagire con l'API esterna viene fatto uso degli oracoli tramite le **chainlink functions**: https://docs.chain.link/chainlink-functions
 
-Strumenti utilizzati:
+Tool utilizzati:
 
 
 **-Sepolia** ->Testnet utilizzata;
