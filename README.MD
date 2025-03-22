@@ -35,4 +35,4 @@ Strumenti utilizzati:
 
 
 
-![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architecture2.png)
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architectureV2.png)
