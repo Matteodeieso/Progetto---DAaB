@@ -35,7 +35,15 @@ Tool utilizzati:
 
 
 
+
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architectureV2.png)
+L'architettura si suddivide in due componenti principali: on-chain e off-chain.
+
+On-chain: comprende gli smart contract che gestiscono il DNFT (Dynamic NFT) e il consumer, responsabile dell'invio di richieste di temperatura tramite le Chainlink Functions.
+Off-chain: include l'infrastruttura degli oracoli (Decentralized Oracle Network) e la piattaforma che fornisce i dati relativi alla temperatura.
+Questa separazione garantisce un'interazione efficiente tra la blockchain e le fonti di dati esterne, assicurando l'aggiornamento dinamico del DNFT.
+
+
 
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png)
 
