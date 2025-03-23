@@ -36,3 +36,7 @@ Tool utilizzati:
 
 
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architectureV2.png)
+
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/fioritura.png)
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/germoglio.png)
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/seme.png)
