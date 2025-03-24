@@ -59,7 +59,7 @@ Tramite una chiamata dallo smart contract DNFT, viene richiesta l'ultima tempera
 Il consumer, a sua volta, aggiorna il valore della temperatura effettuando una chiamata a un'API esterna. Una volta ottenuto il dato, procede con l'aggiornamento della temperatura.
 
 
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/reqTokenUri.png)
 
-![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/fioritura.png)
-![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/germoglio.png)
-![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/IPFS/seme.png)
+
+Nella cartella IPFS possiamo vedere le immagini associate ai 3 stati che il token può assumere.
