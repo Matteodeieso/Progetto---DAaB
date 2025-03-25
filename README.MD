@@ -50,7 +50,7 @@ Questa separazione garantisce un'interazione efficiente tra la blockchain e le f
 
 
 <p align="center">
-<img width="250" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png">
+<img width="350" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png">
 </p>
 
 Tramite una chiamata dallo smart contract DNFT, viene richiesta l'ultima temperatura memorizzata dal consumer.
