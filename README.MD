@@ -34,6 +34,7 @@ Tool utilizzati:
 **-Pinata**->Per utilizzare gli IPFS.
 
 
+<h1 align="center">ARCHITETTURA</h1>
 
 
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/architectureV2.png)
@@ -45,9 +46,7 @@ L'architettura si suddivide in due componenti principali: on-chain e off-chain.
 
 **Off-chain**: include l'infrastruttura degli oracoli (Decentralized Oracle Network) e la piattaforma che fornisce i dati relativi alla temperatura.
 
-
-Questa separazione garantisce un'interazione efficiente tra la blockchain e le fonti di dati esterne, assicurando l'aggiornamento dinamico del DNFT.
-
+<h1 align="center">BACKEND</h1>
 
 <p align="center">
 <img width="350" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png">
@@ -58,7 +57,10 @@ Tramite una chiamata dallo smart contract DNFT, viene richiesta l'ultima tempera
 
 Il consumer, a sua volta, aggiorna il valore della temperatura effettuando una chiamata a un'API esterna. Una volta ottenuto il dato, procede con l'aggiornamento della temperatura.
 
+
+
 <h1 align="center">FRONTEND</h1>
+
 
 
 <p align="center">
