@@ -58,7 +58,7 @@ Tramite una chiamata dallo smart contract DNFT, viene richiesta l'ultima tempera
 
 Il consumer, a sua volta, aggiorna il valore della temperatura effettuando una chiamata a un'API esterna. Una volta ottenuto il dato, procede con l'aggiornamento della temperatura.
 
-<p align="center">**FRONTEND** 
+<p align="center"><strong>FRONTEND</strong>
 </p>
 
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/reqTokenUri.png)
