@@ -60,6 +60,6 @@ Il consumer, a sua volta, aggiorna il valore della temperatura effettuando una c
 
 
 ![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/reqTokenUri.png)
-
+![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/DNFTImage.png)
 
 Nella cartella IPFS possiamo vedere le immagini associate ai 3 stati che il token può assumere.
