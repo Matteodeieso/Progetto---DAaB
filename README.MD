@@ -49,9 +49,9 @@ L'architettura si suddivide in due componenti principali: on-chain e off-chain.
 Questa separazione garantisce un'interazione efficiente tra la blockchain e le fonti di dati esterne, assicurando l'aggiornamento dinamico del DNFT.
 
 
-
-![alt text](https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png)
-
+<p align="center">
+<img width="150" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/function.png">
+<\p>
 
 Tramite una chiamata dallo smart contract DNFT, viene richiesta l'ultima temperatura memorizzata dal consumer.
 
