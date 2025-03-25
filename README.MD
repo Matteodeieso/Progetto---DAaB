@@ -62,8 +62,8 @@ Il consumer, a sua volta, aggiorna il valore della temperatura effettuando una c
 
 
 <p align="center">
-<img width="200" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/reqTokenUri.png">
-<img width="200" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/DNFTImage.png">
+<img width="150" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/reqTokenUri.png">
+<img width="150" src="https://github.com/Matteodeieso/Progetto---DAaB/blob/main/DNFTImage.png">
 </p>
 
 
